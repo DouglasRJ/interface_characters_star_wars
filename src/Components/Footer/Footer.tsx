@@ -7,6 +7,9 @@ const { Text } = Typography;
 
 const Footer = () => (
   <footer className="footer" style={{ paddingTop: '20px' }}>
+    <div>
+      a
+    </div>
     <Row gutter={[48, 0]}>
       <Col span={8} style={{ textAlign: 'center' }}>
         <Text style={{ color: 'white' }}>
