@@ -74,7 +74,7 @@ const CardItems = ({ dataSource, loading }: any) => {
               style={{ borderRadius: '3%' }}
               className={`hover hover-${color}`}
             >
-              <p>Birth Yearrrr: {birth_year}</p>
+              <p>Birth Year: {birth_year}</p>
               <p>HomeWorld: {homeworld}</p>
             </Card>
           </Col>
