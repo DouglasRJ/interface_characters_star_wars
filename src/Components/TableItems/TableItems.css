@@ -1,0 +1,10 @@
+.ant-table-cell,
+.ant-table-header {
+    color: white !important;
+    background-color: #19191a !important;
+    border-color: #4d4f55 !important;
+}
+
+.ant-table-pagination {
+    display: none;
+}

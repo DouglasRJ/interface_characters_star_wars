@@ -1,0 +1,5 @@
+.ant-input-search > span > input, .ant-input-group-addon > button {
+    border-color: #4d4f55 !important;
+    background-color: #19191a !important;
+    color: white !important;
+}

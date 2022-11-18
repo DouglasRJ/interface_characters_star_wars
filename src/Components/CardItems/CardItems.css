@@ -1,0 +1,42 @@
+.ant-card {
+    border-radius: 2%;
+    box-shadow: 1px 1px 20px -2px #0000009c;
+    -webkit-box-shadow: 1px 1px 20px -2px #0000009c;
+    -moz-box-shadow: 1px 1px 20px -2px #0000009c;
+}
+
+.hover {
+    transition: all 0.3s 0s ease-in-out;
+}
+
+.hover-white:hover {
+    box-shadow: 0px 0px 10px .8px #ffffff;
+}
+
+.hover-blue:hover {
+    box-shadow: 0px 0px 10px .8px #0051ff;
+}
+
+.hover-green:hover {
+    box-shadow: 0px 0px 10px .8px #7dfe7f;
+}
+
+.hover-red:hover {
+    box-shadow: 0px 0px 10px .8px #ff000b;
+}
+
+.hover-purple:hover {
+    box-shadow: 0px 0px 10px .8px #7903f0;
+}
+
+
+.ant-card,
+.ant-card-head-title {
+    color: white;
+    background-color: #19191a !important;
+}
+
+.ant-card-head {
+    border-bottom: 0.1px solid #4d4f55 !important;
+    text-align: center;
+}

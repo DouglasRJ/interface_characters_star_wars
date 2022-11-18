@@ -1,0 +1,23 @@
+.ant-switch-checked {
+    background-color: #fff !important;
+}
+
+.ant-switch {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.ant-switch>.ant-switch-inner {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.ant-switch-checked>.ant-switch-inner {
+    color: black;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.ant-switch-checked>.ant-switch-handle::before {
+    background-color: #000000d9;
+}
